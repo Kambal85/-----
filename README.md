@@ -1,3 +1,4 @@
-# MohamedSuliman
-Personal website
-<h1> hello world </h1>
+# Mohamed Suliman
+<h1> I care about information! 
+  
+I'm currently a researcher at Northeaster university, and also a regural contributor to Global voices where I write about issues related to Technology, I hold a degree in Engineering but I have deep interest in social science </h1>
