@@ -1,4 +1,6 @@
 
+ <img src=”https://github.com/Kambal85/-----/blob/main/assets/css/kambal.png”>   
+
 I care about information!
  
 I’m currently a researcher at Northeastern university and a regular contributor to Global voices where I write about issues related to Technology, I hold a degree in Engineering but I have deep interest in social science
