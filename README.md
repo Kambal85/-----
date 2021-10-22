@@ -1,4 +1,4 @@
-!(Kambal85/-----/blob/main/assets/css/kambal.png)
+<img src="https://github.com/Kambal85/-----/blob/main/assets/css/kambal.png" width="100" height="100">
 
 I care about information!
  
