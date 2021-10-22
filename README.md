@@ -1,4 +1,4 @@
-!Kambal85/-----/blob/main/assets/css/kambal.png)
+!(Kambal85/-----/blob/main/assets/css/kambal.png)
 
 I care about information!
  
