@@ -13,7 +13,7 @@ You can  read my scientific papers on Google Scholar
  
  
  
-I try to update my two blogs: Thoughts on information and Random Poems! 
+I try to update my two blogs: Thoughts on Information and Random Poems! 
 
  
  
