@@ -1,6 +1,3 @@
-<img src="https://github.com/Kambal85/-----/blob/main/assets/css/kambal.png" style="top:10%; left:80%">
-
-
 
 I care about information!
  
