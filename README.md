@@ -13,7 +13,7 @@ You can  read my scientific papers on Google Scholar
  
  
  
-I try to update my two blogs:   <a href="https://mhssulimanmn.medium.com/">Thoughts on Information</a>  and <a href="https://mhssulimanmn.medium.com/">Random Poems!</a>   
+I try to update my two blogs:   <a href="https://mohammedhashimkambal.medium.com/">Thoughts on Information</a>  and <a href="https://mhssulimanmn.medium.com/">Random Poems!</a>   
 
  
  
