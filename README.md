@@ -1,8 +1,6 @@
 
 <img
   src="https://github.com/Kambal85/-----/blob/main/IMG_0189.JPG"
-  alt="Alt text"
-  title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 3px">
 
 
