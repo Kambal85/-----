@@ -1,7 +1,7 @@
 
 <img
   src="https://github.com/Kambal85/-----/blob/main/IMG_0189.JPG"
-  style="display: inline-block; margin: 0 auto; max-width: 3px">
+  style="display: inline-block; margin: 0 auto; max-width:0.001px">
 
 
 
