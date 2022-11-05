@@ -1,4 +1,4 @@
-![Alt text](https://github.com/Kambal85/-----/blob/main/IMG_0189.JPG)
+
 
 Hi, I'm Mohamed Suliman
  
@@ -11,5 +11,5 @@ In my free time I enjoy reading, walking, and writing short-stories and haiku po
 
  
  
- 
+ ![Alt text](https://github.com/Kambal85/-----/blob/main/IMG_0189.JPG)
  
