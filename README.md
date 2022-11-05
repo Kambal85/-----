@@ -1,10 +1,5 @@
 <img src="https://github.com/Kambal85/-----/blob/main/IMG_0189.JPG" width="100%" height="100%">
  
- <meta http-equiv='cache-control' content='no-cache'> 
-<meta http-equiv='expires' content='0'> 
-<meta http-equiv='pragma' content='no-cache'>
-  
-
 
 Hi, I'm Mohamed Suliman
  
