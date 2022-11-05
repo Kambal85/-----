@@ -1,5 +1,6 @@
-
-![alt text](https://github.com/Kambal85/-----/blob/main/IMG_0189.JPG)
+<img
+  src="https://github.com/Kambal85/-----/blob/main/IMG_0189.JPG"
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
 
 
 Hi, I'm Mohamed Suliman
