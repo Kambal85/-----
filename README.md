@@ -1,5 +1,4 @@
-
-<img src="https://github.com/Kambal85/-----/blob/main/IMG_0189.JPGjpg"  style="width:500px;height:6px;">
+<img src="https://github.com/Kambal85/-----/blob/main/IMG_0189.JPG" height="120" width="120" >
 
 Hi, I'm Mohamed Suliman
  
