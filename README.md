@@ -1,23 +1,14 @@
 
 
-I care about information!
+Hi, I'm Mohamed Suliman
  
-I’m currently a researcher at Northeastern university and a regular contributor to Global voices where I write about issues related to                               Technology, I hold a degree in Engineering but I have deep interest in social science
- 
- 
- 
-My articles and op-eds appeared on Tech Policy.Press, Global Voices, American Philosophical association, and Rest of World. 
- 
- 
- 
-You can  read my scientific papers on Google Scholar 
- 
- 
- 
-I try to update my blog  <a href="https://mohammedhashimkambal.medium.com/">Thoughts on Information</a>  
+I’m currently a senior researcher at Northeastern university's civic AI lab, my current work focuses on the impact of AI on society, disinformation and the online memories recollection. You may want to read my scientific papers and articles.
 
 
-My twitter account <a href="https://twitter.com/MuhammedKambal">has a photo</a> of me!
+In my free time I enjoy reading, walking, and writing short-stories and haiku poems. 
+ 
+ 
+
  
  
  
