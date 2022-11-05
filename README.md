@@ -1,4 +1,4 @@
-<img src="https://github.com/Kambal85/-----/blob/main/IMG_0189.JPG" width="50%" height="50%">
+<img src="https://github.com/Kambal85/-----/blob/main/IMG_0189.JPG" width="100%" height="100%">
  
   
 
