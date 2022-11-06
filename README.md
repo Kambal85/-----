@@ -1,4 +1,4 @@
-<img src="/assets/css/kambal.png" width="60%" height="60%">
+<img src="assets/css/kambal.png" width="60%" height="60%">
  
 
 Hi, I'm Mohamed Suliman
