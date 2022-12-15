@@ -30,7 +30,7 @@ Essays and Articles
 <p><span><span>&nbsp;</span></span></p>
 <p dir="ltr"><span>Mohamed Suliman, </span><a href="https://techpolicy.press/facebooks-convoluted-history-providing-data-access-proves-necessity-of-regulation/"><span>Facebook&rsquo;s convoluted history providing data access proves the necessity of regulation</span></a><span>, Tech policy. Press.&nbsp;</span></p>
 <p><span><span>&nbsp;</span></span></p>
-<p dir="ltr"><span>Mohamed Suliman, </span><a href="https://www.fairobserver.com/politics/the-right-to-fair-recollection/"><span>The right to fair recollection</span></a><span>, Fair Observer</span></p>
+<p dir="ltr"><span>Mohamed Suliman, </span><a href="https://www.fairobserver.com/politics/the-right-to-fair-recollection/"><span>The right to fair recollection</span></a><span>, Fair Observer&nbsp;</span></p>
 
 <p dir="ltr"><span>Mohamed Suliman, </span><a href="https://intpolicydigest.org/the-platform/time-for-the-u-s-to-cut-the-saudis-off-in-yemen/"><span>Time for the U.S. to cut Saudis Off in Yemen</span></a><span>, International Policy digest&nbsp;</span></p>
 <p><span><span>&nbsp;</span></span></p>
