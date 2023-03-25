@@ -7,7 +7,7 @@ I’m a senior researcher at Northeastern university's civic AI lab, my current 
 
 
 
-In my free time I enjoy walking, reading books and writing short-stories and haiku poems. 
+In my free time I write short stories and translate poetry  
 
 
 
